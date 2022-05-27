@@ -1,2 +1,2 @@
-# Customer_Churn_Detection
+# Customer_Churn_Prediction
 Teste README.md
