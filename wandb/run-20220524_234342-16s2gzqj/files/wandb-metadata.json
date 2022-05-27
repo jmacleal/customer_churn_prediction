@@ -1,0 +1,25 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-25T02:43:45.662515",
+    "startedAt": "2022-05-25T02:43:42.480536",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "source.api.main:app",
+        "--reload"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\Mac_l\\anaconda3\\envs\\colab2deploy\\Scripts\\uvicorn-script.py",
+    "codePath": "..\\..\\anaconda3\\envs\\colab2deploy\\Scripts\\uvicorn-script.py",
+    "git": {
+        "remote": "https://github.com/lucasismael/Customer_Churn_Detection_EEC1731",
+        "commit": "f96f604c00461333673419e21713e89343e3167f"
+    },
+    "email": "mac_leal@hotmail.com",
+    "root": "C:/Users/Mac_l/project_mlops/Customer_Churn_Detection_EEC1731",
+    "host": "DESKTOP-VK6N7PS",
+    "username": "Mac_l",
+    "executable": "C:\\Users\\Mac_l\\anaconda3\\envs\\colab2deploy\\python.exe"
+}

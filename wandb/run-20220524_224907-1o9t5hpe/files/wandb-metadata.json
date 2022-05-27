@@ -1,0 +1,26 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-05-25T01:49:12.636564",
+    "startedAt": "2022-05-25T01:49:07.136992",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "source/api",
+        "-vv",
+        "-s"
+    ],
+    "state": "running",
+    "program": "C:\\Users\\Mac_l\\anaconda3\\envs\\colab2deploy\\Scripts\\pytest-script.py",
+    "codePath": "..\\..\\anaconda3\\envs\\colab2deploy\\Scripts\\pytest-script.py",
+    "git": {
+        "remote": "https://github.com/lucasismael/Customer_Churn_Detection_EEC1731",
+        "commit": "f9b5b1c85959f8eb43107517f419eb9f667cc408"
+    },
+    "email": "mac_leal@hotmail.com",
+    "root": "C:/Users/Mac_l/project_mlops/Customer_Churn_Detection_EEC1731",
+    "host": "DESKTOP-VK6N7PS",
+    "username": "Mac_l",
+    "executable": "C:\\Users\\Mac_l\\anaconda3\\envs\\colab2deploy\\python.exe"
+}
