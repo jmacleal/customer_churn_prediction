@@ -1,2 +1,2 @@
-# Customer_Churn_Detection_EEC1731
+# Customer_Churn_Detection
 Teste README.md
