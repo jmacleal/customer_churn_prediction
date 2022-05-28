@@ -7,7 +7,7 @@ Inspired by [Model Cards for Model Reporting (Mitchell et al.)](https://arxiv.or
 ## Model Details
 
 * Developed by students during the Machine Learning discipline (EEC1509) of the Postgraduate Program in Electrical and Computer Engineering at the Technology Center of the Federal University of Rio Grande do Norte, in May 2022.
-* A complete data pipeline was built using Jupter Notebook to train a decision tree classification Model (https://github.com/customer_churn_prediction/source/ml_project/churn_prediction.ipynb). 
+* A complete data pipeline was built using Jupter Notebook to train a decision tree classification Model. Access to file [here](https://github.com/jmacleal/customer_churn_prediction/blob/main/source/ml_project/churn_prediction.ipynb). 
 * Wandb, GitHub, FastAPI and Heroku are used for deploy the pipeline in production. See the aplication [here](https://customer--churn--prediction.herokuapp.com/docs).
 
 ## Intended Use
