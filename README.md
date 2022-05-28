@@ -1,5 +1,5 @@
 # Customer Churn Prediction
-This is a machine learnig project for churn prediction.
+This is a machine learning project for customer churn prediction.
 The project was developed during the Machine Learning discipline (EEC1509) of the Postgraduate Program in Electrical and Computer Engineering at the Technology Center of the Federal University of Rio Grande do Norte, in May 2022.
 
 ### Equipe
@@ -7,8 +7,7 @@ The project was developed during the Machine Learning discipline (EEC1509) of th
 Prof. Ivanovitch (www.linkedin.com/in/ivanovitchm)
 
  - Equipe técnica: 
-J. Marcos Leal (www.linkedin.com/in/macleal)
-Lucas Ismael (www.linkedin.com/in/lucasismaelcm).
+J. Marcos Leal (www.linkedin.com/in/macleal), Lucas Ismael (www.linkedin.com/in/lucasismaelcm).
 
 Última Atualização: 28/05/2022.
 
