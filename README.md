@@ -7,7 +7,11 @@ This project was developed during the Machine Learning discipline (EEC1509) of t
 Perform the prediction of customer dropout of a given service.
 
 ### Equipe
- - Orientador: Prof. Ivanovitch (ivanovitch.silva@ufrn.br)
- - Equipe técnica: J. Marcos Leal (jose.filho.048@ufrn.edu.br), Lucas Ismael (lucasismael.gppcom@ufrn.edu.br).
+ - Orientador: Prof. Ivanovitch (www.linkedin.com/in/ivanovitchm)
+ - Equipe técnica: J. Marcos Leal (www.linkedin.com/in/macleal)
+), Lucas Ismael (www.linkedin.com/in/lucasismaelcm).
 
 Última Atualização: 28/05/2022.
+
+## References
+
