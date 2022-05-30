@@ -11,6 +11,10 @@ Inspired by [Model Cards for Model Reporting (Mitchell et al.)](https://arxiv.or
 * The data pipeline is composed of the following stages: 1) ``Extract, Transform and Load (ETL)``, 2) ``Data Check``, 3) ``Data Segregation``, 4) ``Trainning``, 5) ``Testing``.
 * GitHub, FastAPI and Heroku are used for deploy the pipeline in production. See the aplication [here](https://customer--churn--prediction.herokuapp.com/docs).
 
+A big picture of the project is presented below.
+
+<center><img width="800" src="images/bigPicture.jpg"></center>
+
 ## Intended Use
 * Intended to be used for predicting customer churn 
 * The model trained in this project was used to validate a complete data pipeline and to put it into production.
