@@ -26,7 +26,7 @@ The dataset contains 10.000 rows (each representing an unique customer) with 14 
 **Categorical Features:** ``Surname, Geography, Gender, HasCrCard, IsActiveMember``.
 **The target column:** ``Exited``.
 
-The dataset can be seen and downloaded [here](https://drive.google.com/file/d/12G9RpQauml0QOUAB3aaPaJVduyEnnMzR/view).
+The dataset can be seen and downloaded [here](https://www.kaggle.com/datasets/aakash50897/churn-modellingcsv?resource=download).
 
 ## Evaluation Data
 The dataset under study is split into Train and Test during the ``Segregate`` stage of the data pipeline. 70% of the clean data is used to Train and the remaining 30% to Test. Additionally, 30% of the Train data is used for validation purposes (hyperparameter-tuning).
