@@ -34,7 +34,7 @@ The dataset under study is split into Train and Test during the ``Segregate`` st
 ## Metrics
 The metrics adopted for the machine learning experiment performance are: [accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html), [f1](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html#sklearn.metrics.f1_score), [precision](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score), [recall](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score).
 
-Metrics are calculated in "Export the best model" and "Testing" sections of the churn_prediction.ipynb script available [here](https://github.com/customer_churn_prediction/source/ml_project/churn_prediction.ipynb).
+Metrics are calculated in "Export the best model" and "Testing" sections of the churn_prediction.ipynb script available [here](https://github.com/jmacleal/customer_churn_prediction/blob/main/source/ml_project/churn_prediction.ipynb).
 
 The results are shown below:
 
