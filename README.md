@@ -4,10 +4,14 @@ The project was developed during the Machine Learning discipline (EEC1509) of th
 
 ### Equipe
  - Orientador: 
+
 Prof. Ivanovitch (www.linkedin.com/in/ivanovitchm)
 
  - Equipe técnica: 
-J. Marcos Leal (www.linkedin.com/in/macleal), Lucas Ismael (www.linkedin.com/in/lucasismaelcm).
+
+J. Marcos Leal (www.linkedin.com/in/macleal), 
+
+Lucas Ismael (www.linkedin.com/in/lucasismaelcm).
 
 Última Atualização: 28/05/2022.
 
@@ -25,6 +29,9 @@ A big picture of the project is presented below.
 <center><img width="800" src="images/bigPicture.jpg"></center>
 
 ## References
-[1] https://github.com/ivanovitchm/ppgeecmachinelearning
-[2] https://github.com/ivanovitchm/colab2mlops
-[3] MITCHELL, Margaret et al. Model Cards for Model Reporting, 2019. Accessed May 30, 2022. Avaliable [here](https://arxiv.org/abs/1810.03993).
+[1] MITCHELL, Margaret et al. Model Cards for Model Reporting, 2019. Accessed May 30, 2022. Avaliable [here](https://arxiv.org/abs/1810.03993).
+
+[2] https://github.com/ivanovitchm/ppgeecmachinelearning.
+
+[3] https://github.com/ivanovitchm/colab2mlops.
+
