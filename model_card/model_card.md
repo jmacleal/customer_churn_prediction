@@ -13,7 +13,7 @@ Inspired by [Model Cards for Model Reporting (Mitchell et al.)](https://arxiv.or
 
 A big picture of the project is presented below.
 
-<center><img width="800" src="images/bigPicture.jpg"></center>
+<center><img width="800" src="../images/bigPicture.jpg"></center>
 
 ## Intended Use
 * Intended to be used for predicting customer churn 
