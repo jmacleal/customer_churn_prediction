@@ -2,18 +2,12 @@
 This is a machine learning project for customer churn prediction.
 The project was developed during the Machine Learning discipline (EEC1509) of the Postgraduate Program in Electrical and Computer Engineering at the Technology Center of the Federal University of Rio Grande do Norte, in May 2022.
 
-### Equipe
- - Orientador: 
+### Team
+ - Supervisor: Prof. Ivanovitch (www.linkedin.com/in/ivanovitchm)
 
-Prof. Ivanovitch (www.linkedin.com/in/ivanovitchm)
+ - Developers: J. Marcos Leal (www.linkedin.com/in/macleal), Lucas Ismael (www.linkedin.com/in/lucasismaelcm).
 
- - Equipe técnica: 
-
-J. Marcos Leal (www.linkedin.com/in/macleal), 
-
-Lucas Ismael (www.linkedin.com/in/lucasismaelcm).
-
-Última Atualização: 28/05/2022.
+Last Update: May 30, 2022.
 
 ## Project Purpose:
 Perform the prediction of customer dropout of a given service.
