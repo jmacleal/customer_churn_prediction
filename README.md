@@ -31,7 +31,11 @@ A big picture of the project is presented below.
 ## References
 [1] MITCHELL, Margaret et al. Model Cards for Model Reporting, 2019. Accessed May 30, 2022. Avaliable [here](https://arxiv.org/abs/1810.03993).
 
-[2] https://github.com/ivanovitchm/ppgeecmachinelearning.
+[2] https://www.thepythoncode.com/article/customer-churn-detection-using-sklearn-in-python
 
-[3] https://github.com/ivanovitchm/colab2mlops.
+[3] https://colab.research.google.com/drive/1az3zBurhlcZfLJ2j2kZNlBtflsOQ5CUg?usp=sharing
+
+[4] https://github.com/ivanovitchm/ppgeecmachinelearning.
+
+[5] https://github.com/ivanovitchm/colab2mlops.
 
