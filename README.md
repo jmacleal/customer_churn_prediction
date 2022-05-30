@@ -18,8 +18,8 @@ Perform the prediction of customer dropout of a given service.
 
 ## Project Description
 This project develops a complete data pipeline with a Decision Tree Classification Model, using Google Colab, Scikit-Learn and Weights & Bias. The Jupter Notebook script is here [source/ml_project/churn_prediction.ipynb](https://github.com/jmacleal/customer_churn_prediction/blob/main/source/ml_project/churn_prediction.ipynb).
-The data pipeline is composed of the following stages: 1) ``Extract, Transform and Load (ETL)``, 2) ``Data Check``, 3) ``Data Segregation``, 4) ``Trainning``, 5) ``Testing``.
-It is put in production and deployed using GitHub, FastAPI and Heroku. See the aplication [here](https://customer--churn--prediction.herokuapp.com/docs).
+The data pipeline is composed of the following stages: 1) ``Extract, Transform and Load (ETL)``, 2) ``Data Check``, 3) ``Data Segregation``, 4) ``Trainning and Validation``, 5) ``Test``.
+It is put in production and deployed using FastAPI, GitHub, PyTest and Heroku. See the aplication [here](https://customer--churn--prediction.herokuapp.com/docs).
 A big picture of the project is presented below.
 
 <center><img width="800" src="images/bigPicture.jpg"></center>

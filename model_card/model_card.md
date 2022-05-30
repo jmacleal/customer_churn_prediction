@@ -8,8 +8,8 @@ Inspired by [Model Cards for Model Reporting (Mitchell et al.)](https://arxiv.or
 
 * Developed by students during the Machine Learning discipline (EEC1509) of the Postgraduate Program in Electrical and Computer Engineering at the Technology Center of the Federal University of Rio Grande do Norte, in May 2022.
 * A complete data pipeline was built using Google Colab, Scikit-Learn and Weights & Bias to train a Decision Tree Classification Model. Access to the file [here](https://github.com/jmacleal/customer_churn_prediction/blob/main/source/ml_project/churn_prediction.ipynb). 
-* The data pipeline is composed of the following stages: 1) ``Extract, Transform and Load (ETL)``, 2) ``Data Check``, 3) ``Data Segregation``, 4) ``Trainning``, 5) ``Testing``.
-* GitHub, FastAPI and Heroku are used for deploy the pipeline in production. See the aplication [here](https://customer--churn--prediction.herokuapp.com/docs).
+* The data pipeline is composed of the following stages: 1) ``Extract, Transform and Load (ETL)``, 2) ``Data Check``, 3) ``Data Segregation``, 4) ``Trainning and Validation``, 5) ``Test``.
+* FastAPI, GitHub, PyTest and Heroku are used for deploy the pipeline in production. See the aplication [here](https://customer--churn--prediction.herokuapp.com/docs).
 
 A big picture of the project is presented below.
 
