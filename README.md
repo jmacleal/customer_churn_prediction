@@ -17,6 +17,8 @@ Perform the prediction of customer dropout of a given service.
 <center><img width="800" src="images/churn.jpg"></center>
 
 ## Project Description
+<center><img width="800" src="images/bigPicture.jpg"></center>
+
 To be completed...
 
 ## References

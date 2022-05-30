@@ -41,7 +41,7 @@ Test [decent-sweep-12](https://wandb.ai/eec1509/churn_prediction_project/runs/19
 
 
 ## Ethical Considerations
-We might be tempted to say that this dataset can be used to predict customer churn of a particular service anywhere. However, these data represent the reality of people from specific countries (France, Spain and Germany), with specific characteristics. For other regions a new dataset may be required.
+One might think that this dataset can be used to predict customer churn of a particular service anywhere. However, these data represent the reality of people from specific countries (France, Spain and Germany), with specific characteristics. For other regions a new dataset may be required.
 
 ## Caveats and Recommendations
 It should be noted that the model trained in this project was used only to validate a complete data pipeline and to put it into production. It may not meet a specific demand.
